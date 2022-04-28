@@ -19,7 +19,7 @@ operation_systems: Sequence[str] = 'linux', 'Unix'
 
 @dataclass(frozen=True)
 class Social:
-github: str = 'https://www.github.com/labohkip81'
+github: str = 'https://www.github.com/mzunye777'
 codewars: str = 'https://www.codewars.com/users/geoffrey'
 twitter: str = 'https://twitter.com/jfreeluv'
 linkedin: str = 'https://www.linkedin.com/in/geoffreymuli'
