@@ -4,7 +4,7 @@ from typing import Sequence
 
 @dataclass(frozen=True)
 class Portfolio:
-name: str = 'Laban Kiplagat'
+name: str = 'GEOFFREY MULI'
 location: str = 'Nairobi Kenya'
 profile: str = 'Python-Django Developer, Linux User, React Dev'
 experience: str = '3+ years'
