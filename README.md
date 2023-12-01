@@ -1,4 +1,4 @@
-HI THIS GEOFFFREY I AM WORKING ON THIS SOON!
+HI THIS IS GEOFFFREY I AM WORKING ON THIS SOON! LOL
 A passionate frontend developer
 
 🤝 I’m looking for help with Open source projects
